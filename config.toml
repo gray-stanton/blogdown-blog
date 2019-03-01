@@ -1,0 +1,7 @@
+theme = "hyde"
+baseURL = "http://www.graystanton.com/"
+languageCode = "en-us"
+title = "Gray Stanton"
+
+[params]
+  themeColor = "theme-gray"
