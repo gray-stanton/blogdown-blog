@@ -1,5 +1,5 @@
 theme = "hyde"
-baseURL = "http://graystanton.netlify.com/"
+baseURL = "https://graystanton.netlify.com/"
 languageCode = "en-us"
 title = "Gray Stanton"
 
