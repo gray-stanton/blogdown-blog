@@ -11,7 +11,6 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 # R Markdown
-BUTTS BUTTS BUTTS
 You can embed an R code chunk like this:
 
 ```{r cars}
