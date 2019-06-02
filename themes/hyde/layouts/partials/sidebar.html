@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
       <p class="lead">
-      {{ with .Site.Params.description }} {{.}} {{ else }}A pleasant person to spend time with.{{end}}
+      {{ with .Site.Params.description }} {{.}} {{ else }}<i>Senior Business Analyst</i> The Hartman Group{{end}}
       </p>
     </div>
 
@@ -16,6 +16,11 @@
       </ul>
       <ul class="sidebar-nav">
         <li><a href="{{ .Site.BaseURL }}/about/">About</a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+      <ul class="sidebar-nav">
+        <li><a href="{{ .Site.BaseURL }}post/research/">Research</a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
