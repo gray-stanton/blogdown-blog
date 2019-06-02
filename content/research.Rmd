@@ -1,0 +1,19 @@
+---
+title: "Research"
+author: "Gray Stanton"
+date: 2019-06-02
+categories: ["research"]
+---
+
+
+# Current Interests
+
+# Publications
+
+* Stanton, G., Irissappane A.A. **GANs for Semi-Supervised Opinion Spam Detection.** To appear in Proceedings of the Twenty-Eigth International Joint Conference on Artificial Intelligence. 
+
+# Other media
+* _The Insatiable Appetite_  [Episode 10](https://www.hartman-group.com/podcasts/269005989/a-primer-on-hartmans-proprietary-eating-occasions-compass-database2) _May 2019_
+I discuss our premiere eating occasion survey and how it informs our research on the Hartman Group's official podcast.
+
+
