@@ -1,7 +1,7 @@
 name = "Hyde"
 license = "MIT"
 licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
-description = "A pleasant person to spend time with."
+description = "Gray Stanton"
 tags = ["blog", "company"]
 features = ["blog", "themes"]
 min_version = 0.21
