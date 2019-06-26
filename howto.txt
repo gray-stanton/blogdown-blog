@@ -1,0 +1,22 @@
+Note to future self: this is so far the best way I've figured out to make changes on this blog.
+
+Any Rmarkdown files/blog posts should be put in the content/post folder. Blogdown will run its custom hugo build to get that to be a 
+html file. If the post should be rendered with a different pandoc/hugo/output format, put it in static/post, which will render using whatever
+document format is specified in the YAML preamble.
+
+You need to run blogdown::build_site() in order to render changes in the Rmd to html. Then, commit it to the git repo and push it to github.
+Netlify will take care of the rest.
+
+To add images or pdfs, put them in the static/images or static/pdf folder, which can then be linked to from the site directly. As above, if you
+have a Rmd file which you want to render to pdf instead of html say, put that in the static/post folder, assuming the output format is set in the 
+file.
+
+Useful things to adjust are: 
+
+themes/hyde/index.html - to change how posts and such are displayed on the main page.
+
+themes/hyde/partials/sidebar.html - to change what goes in the sidebar.
+
+themes/hyde/static/css/hyde.css - how to change the styling of the blog overall.
+
+Don't bother touching anyting in public/ as thats all dynamically generated.

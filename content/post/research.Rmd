@@ -3,16 +3,18 @@ title: "Research"
 author: "Gray Stanton"
 date: 2019-06-02
 categories: ["research"]
-summary: "My research interests, publications, and other media."
+description: "My research interests, publications, and other media."
 ---
 
 
 ## Current Interests
 * Deep generative models for text. 
 * Computational considerations for statistical inference in high dimensions
+
 ## Publications
 
-* __Stanton, G.__, Irissappane A.A. *GANs for Semi-Supervised Opinion Spam Detection.* To appear in Proceedings of the Twenty-Eigth International Joint Conference on Artificial Intelligence. Was highlighted in [VentureBeat] (https://venturebeat.com/2019/03/21/ai-can-weed-out-spam-reviews-with-limited-labeled-data/)
+* __Stanton, G.__, Irissappane A.A. *GANs for Semi-Supervised Opinion Spam Detection.* To appear in Proceedings of the Twenty-Eigth International Joint Conference on Artificial Intelligence. 
+  Highlighted in [VentureBeat](https://venturebeat.com/2019/03/21/ai-can-weed-out-spam-reviews-with-limited-labeled-data/)
 
 ## Other media
 * __The Insatiable Appetite__  [Episode 10](https://www.hartman-group.com/podcasts/269005989/a-primer-on-hartmans-proprietary-eating-occasions-compass-database2) _May 2019_
