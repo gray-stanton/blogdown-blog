@@ -15,12 +15,17 @@
         {{- end }}
       </ul>
       <ul class="sidebar-nav">
-        <li><a href="{{ .Site.BaseURL }}/about/">About</a> </li>
+        <li><a href="{{ .Site.BaseURL }}post/about/">About</a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
       <ul class="sidebar-nav">
         <li><a href="{{ .Site.BaseURL }}post/research/">Research</a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+      <ul class="sidebar-nav">
+        <li><a href="{{ .Site.BaseURL }}pdf/resume/">Résumé</a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
