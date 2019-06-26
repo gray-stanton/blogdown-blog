@@ -13,5 +13,5 @@ I'm an unreformed data junkie with a love for elegant graphics and geometric pre
 acting in plays, and valiantly attempting to keep houseplants alive.
 
 
-![Gray]images/self_photo2.png
-![Gray2]images/self_photo.JPG
+![Gray](/images/self_photo2.png)
+![Gray2](/images/self_photo.JPG)
