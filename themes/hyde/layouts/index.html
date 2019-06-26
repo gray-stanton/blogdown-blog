@@ -10,6 +10,7 @@
   {{ .Description }}
   {{ else }}
   {{ .Summary }}
+  {{ end }}
   {{ if .Truncated }}
   <div class="read-more-link">
     <a href="{{ .RelPermalink }}">Read More…</a>
@@ -19,3 +20,4 @@
 {{- end }}
 </div>
 {{- end }}
+
