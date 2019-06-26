@@ -1,0 +1,9 @@
+---
+title: "About"
+author: "Gray Stanton"
+date: 2019-06-01
+categories: ["research"]
+summary: "Personal information and history"
+---
+
+Hello! I'm Gray Stanton, a market researcher and data analyst who currently lives in Seattle.

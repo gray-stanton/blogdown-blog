@@ -3,6 +3,7 @@ title: "Research"
 author: "Gray Stanton"
 date: 2019-06-02
 categories: ["research"]
+summary: "My research interests, publications, and other media."
 ---
 
 
