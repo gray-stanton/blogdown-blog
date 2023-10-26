@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
       <p class="lead">
-      {{ with .Site.Params.description }} {{.}} {{ else }}<i>Senior Business Analyst</i> The Hartman Group{{end}}
+      {{ with .Site.Params.description }} {{.}} {{ else }}<i>PhD Candidate</i> Statistics, Colorado State University{{end}}
       </p>
     </div>
 
@@ -24,8 +24,19 @@
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
+        <ul class="sidebar-nav">
+          <li><a href="{{ .Site.BaseURL }}post/teaching/">Teaching</a> </li>
+          {{ range .Site.Menus.main -}}
+            <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+          {{- end }}
       <ul class="sidebar-nav">
         <li><a href="{{ .Site.BaseURL }}pdf/resume.pdf">Résumé</a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+      </ul>
+      <ul class="sidebar-nav">
+        <li><a href="{{ .Site.BaseURL }}pdf/cv.pdf">CV</a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
@@ -38,6 +49,6 @@
       </ul>
     </nav>
 
-    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2023"}}. All rights reserved. {{end}}</p>
   </div>
 </aside>

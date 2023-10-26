@@ -1,4 +1,4 @@
-Note to future self: this is so far the best way I've figured out to make changes on this blog.
+Note to future self: this is so far the best way I've figured out to make changes on this blog. <- Wow thanks 2019 Gray! (This is 2023 Gray speaking.)
 
 Any Rmarkdown files/blog posts should be put in the content/post folder. Blogdown will run its custom hugo build to get that to be a 
 html file. If the post should be rendered with a different pandoc/hugo/output format, put it in static/post, which will render using whatever

@@ -1,22 +1,45 @@
 ---
 title: "Research"
 author: "Gray Stanton"
-date: 2019-06-02
+date: 2023-09-04
 categories: ["research"]
 description: "My research interests, publications, and other media."
 ---
 
 
+
 ## Current Interests
-* Deep generative models for text. 
-* Computational considerations for statistical inference in high dimensions
+
+
+
+## Dissertation 
+
+* Title: Multi-Channel Factor Analysis: Properties, Extensions, and Applications
+* Abstract: The joint analysis of multiple data sources which capture distinct views of a shared phenomenon is a long-running statistical objective, and requires a method that highlights the commonalities across perspectives while preserving the diversity of the data sources. The rising heterogeneity in available data sources has led to an increased focus on fusing different data sets to gain greater insight into problems in statistics, machine learning, and signal processing (Wang et al. 2019, Meng et al. 2020). Multi-Channel Factor Analysis (MFA), introduced by Ramírez et al. (2020), extends classical factor analysis to problems with multiple data sources by incorporating both latent factors unique to individual channels as well as common factors which account for the variations shared across channels. In this work, we justify the validity of MFA through a careful theoretical study of the identifiability and the asymptotic behavior of the quasi-Gaussian maximum likelihood estimators. We further develop a semiparametric extension to MFA to allow for generic temporal correlations in the latent factors, enabling the combination of information both across data sources and across time
+* Advisors:[Haonan Wang](https://www.stat.colostate.edu/~wanghn/index.html) and [Louis Scharf](https://scharfcsu.weebly.com/)
+* Commitee: Haonan Wang, Louis Scharf, Chenlu Shi, [Piotr Kokoszka](https://www.stat.colostate.edu/~piotr/), [Jie Luo](https://www.engr.colostate.edu/~rockey/)
 
 ## Publications
 
-* __Stanton, G.__, Irissappane A.A. *GANs for Semi-Supervised Opinion Spam Detection.* To appear in Proceedings of the Twenty-Eigth International Joint Conference on Artificial Intelligence. 
+* __Stanton, G__, Wang H, Dongliang D, Scharf L L. 2023. *Multi-Channel Factor Analysis for Temporally and Spatially Correlated Time Series.* 
+  Proceedings of the 57th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC 2023), to appear.
+
+* __Stanton, G__, Wang H, Ramírez D, Santamaria I, Scharf L L. 2023. *Identifiability of Multi-Channel Factor Analysis.* 
+  Proceedings of the 57th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC 2023), to appear.
+
+* __Stanton, G__, Irissappane A A. 2019. *[GANs for Semi-Supervised Opinion Spam Detection](https://www.ijcai.org/proceedings/2019/723).* Proceedings of the Twenty-Eigth International Joint Conference on Artificial Intelligence.
   Highlighted in [VentureBeat](https://venturebeat.com/2019/03/21/ai-can-weed-out-spam-reviews-with-limited-labeled-data/)
 
-## Other media
+
+
+## Other Media
+
+### [Setting the Stage: Statistical Collaboration  Training Videos](https://sites.google.com/view/juliasharp/other-resources/statistical-collaboration-videos)
+* Sharp, J.L., Griffith, E., and Higgs, M. (2020). Statistically significant vs practically meaningful [Video file]. https://youtu.be/pj3zTdpj5VE.
+* Sharp, J.L., Griffith, E., and Higgs, M. (2020). Countering stereotypical views of statisticians [Video file]. https://youtu.be/dx_W1Azvpf8. 
+I act in the above two ASA-funded training videos, demonstating successful and unsuccessful approaches to statistical collaboration. 
+
+### Podcasts
 * __The Insatiable Appetite__  [Episode 10](https://www.hartman-group.com/podcasts/269005989/a-primer-on-hartmans-proprietary-eating-occasions-compass-database2) _May 2019_
 I discuss our premiere eating occasion survey and how it informs our research on the Hartman Group's official podcast.
 

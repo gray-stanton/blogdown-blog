@@ -1,0 +1,76 @@
+---
+title: "Teaching"
+author: "Gray Stanton"
+date: 2023-09-04
+categories: ["teaching"]
+description: "Courses I've taught and students I've mentored."
+---
+
+
+
+## Courses
+
+### Primary Instructor
+    * STAT 331 --- Intermediate Applied Statistical Methods --- Fall 2023
+    [Syllabus]
+
+    * DSCI 336 --- Data Graphics and Visualization --- Spring 2021
+    [Syllabus]
+
+
+### Co-Instructor
+    * STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2021
+    [Syllabus]
+
+    * STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2020
+    [Syllabus]
+
+### Recitation Instructor 
+ * STAT 204 --- Statistics with Business Applications --- Spring 2020
+ * STAT 204 --- Statistics with Business Applications --- Fall 2019 
+
+### Teaching Assistant
+* STAT 530 --- Mathematical Statistics --- Spring 2021
+* STAT 331 --- Intermediate Applied Statistical Methods --- Fall 2021
+* STAA 556 --- Data Visualization Methods --- Fall 2021
+
+
+## Students
+
+### Adam Kiehl
+Adam is a brilliant student who I first met when I was his group project mentor in the statistical research capsone class, STAT 472. 
+We further collaborated during the production of his combination Data Science capstone project and Undergraduate Honors thesis, where he and I had weekly one-on-one research meetings to identify the ideal approach. I served on his Honors Thesis committee, 
+and was happy to see him go on to finish CSU's accelerated Masters of Applied Statistics program.
+
+#### Honors Thesis
+* Title: Inference on Hippocampal Connectivity Using Multi-Trial Count-Valued Time Series.
+* Abstract: Inference on neural connectivity is of great interest to researchers in
+the fields of medicine, engineering, psychology, and more. As a demon-
+stration of the feasibility of using longitudinal generalized linear models to
+this purpose, inference was performed in this analysis on the brain of a rat.
+Multi-trial count-valued spike train data collected by researchers at the
+University of Southern California were used to explore the connections
+between two regions of the rat’s hippocampus as well as within-region con-
+nections. An array of models from the GLAR, INGARCH, and GLARMA
+frameworks were trained and validated, and neural connectivity maps were
+developed based on the results. All frameworks exhibited similar predic-
+tive capabilities, so neural inference was ultimately not overly sensitive to
+model choice.
+Committee: Aaron Nielsen, __Gray Stanton__, Emily King.
+
+### Vanessa Kokoszka
+
+Vanessa is a sharp and creative thinker who I was lucky to work with for two consecutive summers on a neuroscientific research project. As part of the CSU statistics department's undergraduate research program, I advised her on the intricacies of our particular data set and 
+developed the theoretical underpinnings of the method we designed. During our regular research meetings, her insightful comments helped identify useful aspects of the spiketrain data which has lead to an ongoing research project applying Minimum Description Length
+theory to multi-neuron renewal process modeling.
+
+#### Undergraduate Summer Research Presentation at CURC 2023
+* Title: Structural Break Detection in Neural Spiketrain Data
+* Abstract: Examination of multi-electrode neural spiketrain recordings obtained from the hippocampi of trained rats undergoing a memory trial reveals interesting stage-specific patterns in neural activity. 
+  In particular, firing rates and co-firing probabilities are seen to vary in an activity-dependent fashion. As the data contain replicates of the same trial with the same rat, persistence of these patterns can be assessed.
+   Motivated by potential applications to this type of data, a a frequently-used changepoint detection method based on data compression is adapted to point process data. 
+   This adapted method shows promising results in simulation.
+
+
+![VanessaPoster](/images/Agraygood4_crop.JPG)
+

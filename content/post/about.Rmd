@@ -1,17 +1,16 @@
 ---
 title: "About"
 author: "Gray Stanton"
-date: 2019-06-01
+date: 2023-09-04
 categories: ["personal"]
 description: "Personal information and history"
 ---
 
-Hello! I'm Gray Stanton, a market researcher and data analyst who currently lives in Seattle. Specifically, I work in the food and beverage space,
-crunching data on what people eat in order to identify food trends. 
+
+
 
 I'm an unreformed data junkie with a love for elegant graphics and geometric presentations. When I'm not geeking out, I like knitting, 
 acting in plays, and valiantly attempting to keep houseplants alive.
 
+![Gray](/images/Agraygood4_crop.JPG)
 
-![Gray](/images/self_photo2.png)
-![Gray2](/images/self_photo.JPG)
