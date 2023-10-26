@@ -10,13 +10,17 @@ description: "My research interests, publications, and other media."
 
 ## Current Interests
 
+* Identifiability of Structured & Low-Rank Covariance Models
+* Multi-Channel Signal Processing
+* Micro-Level Highway Traffic Modeling
+* Structural Break Detection in Multi-Neuron Spiketrain Data
 
 
 ## Dissertation 
 
 * Title: Multi-Channel Factor Analysis: Properties, Extensions, and Applications
 * Abstract: The joint analysis of multiple data sources which capture distinct views of a shared phenomenon is a long-running statistical objective, and requires a method that highlights the commonalities across perspectives while preserving the diversity of the data sources. The rising heterogeneity in available data sources has led to an increased focus on fusing different data sets to gain greater insight into problems in statistics, machine learning, and signal processing (Wang et al. 2019, Meng et al. 2020). Multi-Channel Factor Analysis (MFA), introduced by Ramírez et al. (2020), extends classical factor analysis to problems with multiple data sources by incorporating both latent factors unique to individual channels as well as common factors which account for the variations shared across channels. In this work, we justify the validity of MFA through a careful theoretical study of the identifiability and the asymptotic behavior of the quasi-Gaussian maximum likelihood estimators. We further develop a semiparametric extension to MFA to allow for generic temporal correlations in the latent factors, enabling the combination of information both across data sources and across time
-* Advisors:[Haonan Wang](https://www.stat.colostate.edu/~wanghn/index.html) and [Louis Scharf](https://scharfcsu.weebly.com/)
+* Advisors: [Haonan Wang](https://www.stat.colostate.edu/~wanghn/index.html) and [Louis Scharf](https://scharfcsu.weebly.com/)
 * Commitee: Haonan Wang, Louis Scharf, Chenlu Shi, [Piotr Kokoszka](https://www.stat.colostate.edu/~piotr/), [Jie Luo](https://www.engr.colostate.edu/~rockey/)
 
 ## Publications
@@ -41,6 +45,6 @@ I act in the above two ASA-funded training videos, demonstating successful and u
 
 ### Podcasts
 * __The Insatiable Appetite__  [Episode 10](https://www.hartman-group.com/podcasts/269005989/a-primer-on-hartmans-proprietary-eating-occasions-compass-database2) _May 2019_
-I discuss our premiere eating occasion survey and how it informs our research on the Hartman Group's official podcast.
+--- I discuss our premiere eating occasion survey and how it informs our research on the Hartman Group's official podcast.
 
 

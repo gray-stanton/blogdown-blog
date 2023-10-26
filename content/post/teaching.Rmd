@@ -11,18 +11,18 @@ description: "Courses I've taught and students I've mentored."
 ## Courses
 
 ### Primary Instructor
-    * STAT 331 --- Intermediate Applied Statistical Methods --- Fall 2023
+* STAT 331 --- Intermediate Applied Statistical Methods --- Fall 2023
     [Syllabus]
 
-    * DSCI 336 --- Data Graphics and Visualization --- Spring 2021
+* DSCI 336 --- Data Graphics and Visualization --- Spring 2021
     [Syllabus]
 
 
 ### Co-Instructor
-    * STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2021
+* STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2021
     [Syllabus]
 
-    * STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2020
+* STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2020
     [Syllabus]
 
 ### Recitation Instructor 
@@ -56,6 +56,7 @@ frameworks were trained and validated, and neural connectivity maps were
 developed based on the results. All frameworks exhibited similar predic-
 tive capabilities, so neural inference was ultimately not overly sensitive to
 model choice.
+
 Committee: Aaron Nielsen, __Gray Stanton__, Emily King.
 
 ### Vanessa Kokoszka
@@ -72,5 +73,5 @@ theory to multi-neuron renewal process modeling.
    This adapted method shows promising results in simulation.
 
 
-![VanessaPoster](/images/Agraygood4_crop.JPG)
+![VanessaPoster](/images/vanessa_poster_crop.jpg)
 

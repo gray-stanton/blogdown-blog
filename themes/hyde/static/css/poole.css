@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #f2c68c;
+  color: #1c140d;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -234,7 +234,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  color: #006854;
+  color: #1c140d;
 }
 
 
