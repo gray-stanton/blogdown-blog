@@ -70,14 +70,15 @@ html {
   }
 }
 
+/* Previuosly 006854
 /* Sidebar links */
 .sidebar a {
-  color: #006854;
+  color: #1c140d;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #006854;
+  color: #1c140d;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
@@ -177,13 +178,14 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
+/* previously #f2c68c
 /* Gray's Signature colors */
 .theme-gray .sidebar {
-  background-color: #f2c68c;
+  background-color: #75563b;
 }
 .theme-gray .content a,
 .theme-gray .related-posts li a:hover {
-  color: #f2c68c;
+  color: #75563b;
 }
 /* Red */
 .theme-base-08 .sidebar {
