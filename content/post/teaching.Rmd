@@ -12,7 +12,7 @@ description: "Courses I've taught and students I've mentored."
 
 ### Primary Instructor
 * STAT 331 --- Intermediate Applied Statistical Methods --- Fall 2023
-    [Syllabus](/pdf/STAT331SyllabiusF23.pdf)
+    [Syllabus](/pdf/STAT331SyllabusF23.pdf)
 
 * DSCI 336 --- Data Graphics and Visualization --- Spring 2021
     [Syllabus](/pdf/DSCI336_syllabus_22.pdf)
