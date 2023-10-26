@@ -19,11 +19,9 @@ description: "Courses I've taught and students I've mentored."
 
 
 ### Co-Instructor
-* STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2021
-    [Syllabus](/pdf/472sp_syllabus.pdf)
+* STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2021 [Syllabus](/pdf/472sp_syllabus.pdf)
 
-* STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2020
-    [Syllabus](/pdf/472sp2020_syllabus.pdf)
+* STAT 472 --- Statistical Research: Data, Design & Methods --- Spring 2020 [Syllabus](/pdf/472sp2020_syllabus.pdf)
 
 ### Recitation Instructor 
  * STAT 204 --- Statistics with Business Applications --- Spring 2020
