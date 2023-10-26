@@ -11,13 +11,24 @@ draft: true
 
 <div id="goals" class="section level1">
 <h1>Goals</h1>
-<p>A key way in which data analysis differs from programming is that the analysis process doesn’t start from a blank slate. Instead, the steps that you take during the process are necessarily dependent not only on the end goal and how the analyst would prefer to reach it, but also on how the data directs.</p>
-<p>Therefore, the process of producing good analysis must be based on a closer partnership between the data and the analyst, leading to a loop of: - Write code which processes data - Get output of that code - Intepret output, in light of the end goal - Rewrite data processing code</p>
-<p>However, there is a tension: while we would like to iterate this loop as quickly as possible, as responsible analysts, we also want to keep close track of what was done to the data and why. The former desire is what influences the use of interactive, exploratory data manipulation tools such as Excel or Rstudio terminals, as they keep one very close to the data.</p>
+<p>A key way in which data analysis differs from programming is that the analysis process doesn’t start from a blank slate.
+Instead, the steps that you take during the process are necessarily dependent not only on the end goal and how the analyst would prefer to reach it,
+but also on how the data directs.</p>
+<p>Therefore, the process of producing good analysis must be based on a closer partnership between the data and the analyst, leading to a loop of:
+- Write code which processes data
+- Get output of that code
+- Intepret output, in light of the end goal
+- Rewrite data processing code</p>
+<p>However, there is a tension: while we would like to iterate this loop as quickly as possible, as responsible analysts, we also want to keep close
+track of what was done to the data and why. The former desire is what influences the use of interactive, exploratory data manipulation tools such
+as Excel or Rstudio terminals, as they keep one very close to the data.</p>
 <p>The lack of automization and reproducability with these tools leads one to try a different approach, one based on unrolling the loop into a flow:</p>
 <p>[insert graphic]</p>
 <p>This leads to more reproducable research, as each pass from the data, to the analysis and to the researcher’s mind, is fully documented.</p>
-<p>Although we lose some flexibility by adopting a rigid workflow, we gain security against common errors that a desire for quick results can push us to. Who among us has not thought <em>oh, I’ll just tweak this one data value by hand</em> and not come to regret it? Because the influence of an outside force (that of the data) so strongly affects the research process, we must hold fast to our values to avoid being pushed into analytical actions which later prove foolish.</p>
+<p>Although we lose some flexibility by adopting a rigid workflow, we gain security against common errors that a desire for quick results can push
+us to. Who among us has not thought <em>oh, I’ll just tweak this one data value by hand</em> and not come to regret it? Because the influence of
+an outside force (that of the data) so strongly affects the research process, we must hold fast to our values to avoid being pushed into
+analytical actions which later prove foolish.</p>
 </div>
 <div id="core-concepts" class="section level1">
 <h1>Core Concepts</h1>
@@ -31,7 +42,7 @@ pie(
   col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
   init.angle = -50, border = NA
 )</code></pre>
-<div class="figure"><span id="fig:pie"></span>
+<div class="figure"><span style="display:block;" id="fig:pie"></span>
 <img src="/post/2019-03-08-workflow_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
 <p class="caption">
 Figure 1: A fancy pie chart.
