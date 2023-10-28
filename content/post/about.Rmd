@@ -6,10 +6,13 @@ categories: ["personal"]
 description: "Personal information and history"
 ---
 
+[Resume](/pdf/Gray_Stanton_Resume)
+[CV](/pdf/Gray_Stanton_CV)
 
+*Personal History*: I grew up in sunny Jupiter, FL but was born outside of Philadelphia. I was lucky enough to get a chance to study at the UPenn for my undergraduate education, then moved to Seattle for a few years
+ to work for a botique food/beverage consultancy. My love for data analysis was rekindled there, and, having had enough of the rain, decided to pursue a PhD in Statistics in Fort Collins, CO.
 
-
-I'm an unreformed data junkie with a love for elegant graphics and geometric presentations. When I'm not geeking out, I like knitting, 
+*Hobbies*: I'm an unreformed data junkie with a love for elegant graphics and geometric presentations. When I'm not geeking out, I like knitting, 
 acting in plays, and valiantly attempting to keep houseplants alive.
 
 ![Gray Stanton (foreground). Blue Spruce (background).](/images/Agraygood4_crop.JPG)
